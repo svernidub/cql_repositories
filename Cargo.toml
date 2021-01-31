@@ -1,0 +1,9 @@
+[package]
+name = "cql_repositories"
+version = "0.1.0"
+authors = ["svernidub <svernidub@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+cdrs = { version = "2" }
